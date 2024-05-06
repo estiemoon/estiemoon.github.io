@@ -1,0 +1,77 @@
+#profile{
+    background-color: rgb(253, 243, 253);
+    width: auto;
+    height: 25%;
+
+}
+
+#profileImage{
+    margin-top: 14px;
+}
+
+#teamProject{
+    width: auto;
+    height: 25%;
+
+}
+
+#personalProject{
+    width: auto;
+    height: 25%;
+
+}
+
+#certificates{
+    width: auto;
+    height: 25%;
+}
+
+.image{
+    width: 150px;
+    height: 150px;
+    padding: 10px 10px 5px 20px;
+
+}
+
+h1{
+    padding-top: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+h2{
+    padding-left: 15px;
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    
+}
+
+#pfDescription {
+    display: inline-block;
+    position: relative;
+    top:-100px;
+    left: 30px;
+}
+
+#githubLink {
+    padding-left: 20px;
+    color: #502F40;
+   
+}
+
+.btn{
+    margin-left: 30px;
+    margin-top: 60px;
+    display: block;
+}
+
+ul{
+    display: inline-block;
+}
+
+.btnAnd{
+    display: inline-block;
+    position: relative;
+    bottom: 70px;
+}
